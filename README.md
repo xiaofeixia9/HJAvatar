@@ -11,3 +11,5 @@ NSURL *avatarURL = [NSURL URLWithString:@"<#显示的头像地址#>"];
 }];
 
 ```
+
+详情可查看 [我的简书](https://www.jianshu.com/p/b84b518ac32b)
