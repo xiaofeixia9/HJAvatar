@@ -134,6 +134,7 @@
     return _avatarView;
 }
 
+// 使用默认配置进行初始化操作，在用户没有配置参数时，使用默认参数代替
 - (HJAvatarAttribute *)defaultAttribute
 {
     if (!_defaultAttribute) {
